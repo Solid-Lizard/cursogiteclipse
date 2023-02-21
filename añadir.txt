@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 cambio añadido
 
 cambio olvidados
 
 cambios para el repositorio remoto
+=======
+cambio añadido
+>>>>>>> refs/remotes/local/master

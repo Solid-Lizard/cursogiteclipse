@@ -1,3 +1,14 @@
+CAMBIOS QUE NO QUIERO SUBIR
+skjaf auk.j .gjf.k dkvj 
+d oagv nañkgn k.jn ñkj gne rñkjgnñ
+ajgerakj k.jnvñk jnñ k nvo
+a
+lkjgrbs kjdn ñ gnj klnnñ dkf
+añjggn adfñkjn fkñdjnfdññkn
+afklnd ñfklñn k jljfdnñkjdfnñfkdngla
+añ fkanlkjdfn ñk jñkh ´nk nñkpoj odñfhbñ oae
+s aghoi kjñhagljker hgñjrkeal
+ agjjñ kljkhlkhljk
 
 
 Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de
@@ -18,6 +29,17 @@ esta ventana podremos subir los nuevos ficheros y commitear los cambios
 además de poder ver claramente que es lo que ha cambiado en nuestro código
 
 
+<<<<<<< HEAD
 Cambio que hemos realizado como hotdix en la version actual.
 Tras hacer esto, lo que debemos hacer es recuperarlo desde 
 la ventana de stashes
+=======
+CAMBIOS QUE SI QUIERO SUBIR
+Resulta que en github también podemos subir nuestros archivos de forma parcial, es decir,
+podemos subir solo fragmentos de archivos en vez del archivo completo
+
+
+GIT STASH
+Si por lo que sea necesitamos almacenar los cambios que hemos realizado pero no hacer un commit, podemos hacerlo d
+desde teams
+>>>>>>> stash

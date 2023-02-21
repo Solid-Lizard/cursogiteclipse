@@ -6,4 +6,6 @@ cambio olvidados
 cambios para el repositorio remoto
 =======
 cambio añadido
+
+caaaaaaambazo para remotoooo
 >>>>>>> refs/remotes/local/master

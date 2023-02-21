@@ -4,4 +4,6 @@ Para iniciar nuestro repositorio en local, hacemos click
 derechi osbre el proyecto>teams>share project y generamos
 nuestro repositorio.
 
-También necestamos abrir la vista de "git staging"
+También necestamos abrir la vista de "git staging" Desde
+esta ventana podremos subir los nuevos ficheros y commitear los cambios
+además de poder ver claramente que es lo que ha cambiado en nuestro código

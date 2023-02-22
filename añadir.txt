@@ -7,6 +7,8 @@ cambios para el repositorio remoto
 =======
 cambio añadido
 
+mas cambioooooooooos
+
 caaaaaaambazo para remotoooo
 >>>>>>> refs/remotes/local/master
 
